@@ -1,9 +1,9 @@
 ---
-title: Known compatibility issues with Android apps
+title: Známé problémy kompatibility s aplikacemi pro Android
 sidebar_position: 15
 ---
 
-## VPN apps
+## Aplikace VPN
 
 Other VPN apps are incompatible with AdGuard running in the Local VPN filtering mode since you cannot have two active VPNs at the same time. To solve this problem we suggest you:
 
